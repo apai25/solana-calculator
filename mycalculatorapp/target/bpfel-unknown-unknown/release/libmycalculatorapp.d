@@ -1,0 +1,1 @@
+/Users/anirudh/Documents/Code/Projects/solana-calculator/mycalculatorapp/target/bpfel-unknown-unknown/release/libmycalculatorapp.rlib: /Users/anirudh/Documents/Code/Projects/solana-calculator/mycalculatorapp/programs/mycalculatorapp/src/lib.rs

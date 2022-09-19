@@ -1,0 +1,10 @@
+/Users/anirudh/Documents/Code/Projects/solana-calculator/mycalculatorapp/target/release/deps/proc_macro2_diagnostics-c9017ef8220ae5e4.rmeta: /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/anirudh/Documents/Code/Projects/solana-calculator/mycalculatorapp/target/release/deps/libproc_macro2_diagnostics-c9017ef8220ae5e4.rlib: /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/anirudh/Documents/Code/Projects/solana-calculator/mycalculatorapp/target/release/deps/proc_macro2_diagnostics-c9017ef8220ae5e4.d: /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs:
+/Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs:
+/Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs:
+/Users/anirudh/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs:
