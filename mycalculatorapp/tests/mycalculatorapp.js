@@ -1,5 +1,5 @@
-const assert = require('assert');
-const anchor = require('@project-serum/anchor');
+import * as assert from 'assert'
+import * as anchor from "@project-serum/anchor"
 import { AnchorProvider, web3 } from '@project-serum/anchor';
 const { SystemProgram } = web3;
 
@@ -24,11 +24,11 @@ describe('mycalculatordapp', () => {
 
     const account = await program.account.calculator.fetch(calculator.publicKey);
     assert.ok(account.greeting === "Welcome to Solana");
-    _calculator = calculator;
+    // _calculator = calculator;
   });
 
   it("Adds two numbers", async function() {
-    const calculator = _calculator;
+    // const calculator = _calculator;
     
     await program.rpc.add(new anchor.BN(2), new anchor.BN(3), {
       accounts: {
@@ -42,7 +42,7 @@ describe('mycalculatordapp', () => {
   });
 
   it('Multiplies two numbers', async function() {
-    const calculator = _calculator;
+    // const calculator = _calculator;
 
     await program.rpc.multiply(new anchor.BN(2), new anchor.BN(3), {
       accounts: {
@@ -56,7 +56,7 @@ describe('mycalculatordapp', () => {
   })
 
   it('Subtracts two numbers', async function() {
-    const calculator = _calculator;
+   //  const calculator = _calculator;
 
     await program.rpc.subtract(new anchor.BN(32), new anchor.BN(33), {
       accounts: {
@@ -71,7 +71,7 @@ describe('mycalculatordapp', () => {
 
   it('Divides two numbers', async function() {
     it('Divides two numbers', async function() {
-      const calculator = _calculator;
+      // const calculator = _calculator;
   
       await program.rpc.divide(new anchor.BN(10), new anchor.BN(3), {
         accounts: {
